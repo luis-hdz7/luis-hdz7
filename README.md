@@ -7,6 +7,8 @@
 
 I'm a student pursuing a degree in Information Systems Engineering at UNAN-León. I'm passionate about the world of the web, including both front-end and back-end development, so I'm always looking to expand my horizons in both fields. I'm always eager to learn and build new things.
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=luis-hdz7&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## My Skills
 <h4> Languages </h4>
 <span>
