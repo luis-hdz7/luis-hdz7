@@ -5,7 +5,7 @@
 
 ### About Me
 
-I am a student pursuing a degree in Information Systems Engineering at UNAN-León. I am passionate about the world of the web, including both front-end and back-end development, so I am always looking to expand my horizons in both fields. I am always eager to learn and build new things.
+I'm a student pursuing a degree in Information Systems Engineering at UNAN-León. I'm passionate about the world of the web, including both front-end and back-end development, so I'm always looking to expand my horizons in both fields. I'm always eager to learn and build new things.
 
 ## My Skills
 <h4> Languages </h4>
